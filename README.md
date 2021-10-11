@@ -24,7 +24,7 @@ $ npm install
 ```
 ## Live Demo
 ```
-$   https://romantic-wright-7b9dad.netlify.app/
+$ https://ecstatic-jepsen-d79c4c.netlify.app/
 ```
 
 
